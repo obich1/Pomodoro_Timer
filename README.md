@@ -23,5 +23,5 @@ The timer follows the Pomodoro technique:
 - Python
 
 ## How to Run
-Make sure Python is installed, then run:
-main.py
+Make sure Python is installed, 
+then run: main.py
