@@ -24,4 +24,6 @@ The timer follows the Pomodoro technique:
 
 ## How to Run
 Install Python 3
+
 Run python main.py
+
